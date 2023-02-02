@@ -8,13 +8,15 @@ The event log is from the BPI Challenge 2019, and contains data on the purchase 
 
 The specific research questions investigated in the project related to the time perspective of enhancement:  
 **What is the distribution of throughput times and why do these throughput times vary?**  
-The slides used for the final project presentation are available here:  
+The slides used for the final project presentation are available here: https://github.com/Natasha-R/Process-Mining-Enhancement-Project/blob/main/ProcessEnhancementProjectPresentation.pdf  
 (The research questions are investigated from page 16 onwards).
 
 The Jupyter notebooks containing the project code are:
-* [1. Filtering the Event Log]()
-* [2. Pre-Processing the Event Log for Modelling]()
-* [3. Exploring the Processed Dataset]()
-* [4. Modelling Throughput]()
+* [1. Filtering the Event Log](https://github.com/Natasha-R/Process-Mining-Enhancement-Project/blob/main/1.%20Filtering%20the%20Event%20Log.ipynb)
+* [2. Pre-Processing the Event Log for Modelling](https://github.com/Natasha-R/Process-Mining-Enhancement-Project/blob/main/2.%20Pre-Processing%20the%20Event%20Log%20for%20Modelling.ipynb)
+* [3. Exploring the Processed Dataset](https://github.com/Natasha-R/Process-Mining-Enhancement-Project/blob/main/3.%20Exploring%20the%20Processed%20Dataset.ipynb)
+* [4. Modelling Throughput](https://github.com/Natasha-R/Process-Mining-Enhancement-Project/blob/main/4.%20Modelling%20Throughput.ipynb)
 
 Further analysis was also completed using ProM (https://promtools.org/) and Celonis (https://www.celonis.com/), the details of which are described in the presentation slides.
+
+Due to the large size of the initial event log it has not been included in this repository, however it is accessible via the link above.
